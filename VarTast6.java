@@ -40,7 +40,8 @@ public class VarTast6 {
 			}
 		
 		//결과 출력
-		System.out.println(answer);
+			System.out.println(x+calculate+y+"="+answer);
+			
 		}
 
 	}
