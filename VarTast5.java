@@ -8,7 +8,7 @@ public class VarTast5 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		// 1. 4칙 연산을 입력받아 저장하는 변수 선언
-		System.out.print("4칙연산을 입력하세요 :");
+		System.out.print("연산자를 입력하세요(+,-,*,/,%) :");
 		String calculate = scan.next();
 		
 		int answer = 0;
